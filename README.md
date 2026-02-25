@@ -10,3 +10,4 @@ Outils : Python · R · Stata
 
 ## Contact / profils
 - GitHub : https://github.com/leamelataguia7-stack
+- Linkedin: https://www.linkedin.com/in/l-melataguia?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVImIV%2F6kQ%2Bql3pbkeGodag%3D%3D
